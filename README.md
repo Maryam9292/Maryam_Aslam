@@ -1,36 +1,36 @@
-# Car Purchase Forecasting Project
+# Car Sales Prediction Project
 
-## Description
-This project predicts the amount a person might spend on buying a car based on their salary, age, income tax, and savings. It is designed to assist individuals in planning their finances for a car purchase and provides valuable insights into spending behavior.
+## Overview
+This project predicts car sales amounts based on socio-economic factors such as **Gender**, **Age**, **Annual Salary**, **Credit Card Debt**, and **Net Worth**. 
 
-## Features
-- Analyze the relationship between salaries, savings, income tax, and car purchase budgets.
-- Forecast spending amounts using statistical and machine learning techniques.
-- Visualize trends and patterns in car purchase behavior.
+The prediction model can be utilized by car dealerships and automotive brands to estimate a customer's spending capacity on a car. By understanding a customer's financial profile, businesses can:
+- Suggest cars within their budget range.
+- Optimize their sales strategies by tailoring offers.
+- Enhance customer experience by showing relevant options.
 
-## How It Works
-The project uses historical data to train a forecasting model. Key variables considered include:
-- **Salary**: Annual income of the individual.
-- **Age**: To analyze trends based on different age groups.
-- **Income Tax**: The impact of taxation on disposable income.
-- **Savings**: The existing financial reserves of the individual.
+This approach uses a **neural network model** built with TensorFlow/Keras to provide accurate predictions, enabling data-driven decisions for both businesses and customers.
 
-The model predicts a potential budget for car purchases based on these variables.
+## Key Features
+1. **Dataset**:
+   - Input Variables: Gender, Age, Annual Salary, Credit Card Debt, Net Worth.
+   - Target Variable: Car Sales Amount.
 
-## Technologies Used
-- **Programming Language**: Python
-- **Libraries**: 
-  - Pandas (for data manipulation)
-  - NumPy (for numerical computations)
-  - Matplotlib & Seaborn (for data visualization)
-  - Scikit-learn (for building and evaluating models)
+2. **Model**:
+   - Neural Network with:
+     - Two hidden layers (10 neurons each, ReLU activation).
+     - One output layer (linear activation).
+   - Optimizer: **Adam**
+   - Loss Function: **Mean Squared Error**
 
+3. **Data Preprocessing**:
+   - Scaling of features and target variable using **MinMaxScaler**.
+   - Train-test split (75% training, 25% testing).
+
+---
 ## Setup Instructions
-1. Download the `Sales_Forecast.ipynb` file.
-2. Open it in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
-3. Ensure the following Python libraries are installed:
-   - Pandas
-   - NumPy
-   - Matplotlib
-   - Seaborn
-   - Scikit-learn
+1. Download the `Sales_Forecast.ipynb` file and the dataset file
+2. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/) by uploading it 
+   or linking the GitHub repository.
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
