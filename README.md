@@ -1,5 +1,4 @@
 # Car Purchase Forecasting Project
-# Car Purchase Forecasting Project
 
 ## Description
 This project predicts the amount a person might spend on buying a car based on their salary, age, income tax, and savings. It is designed to assist individuals in planning their finances for a car purchase and provides valuable insights into spending behavior.
@@ -27,6 +26,11 @@ The model predicts a potential budget for car purchases based on these variables
   - Scikit-learn (for building and evaluating models)
 
 ## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Maryam9292/Data-Analytics-and-Data-Science.git
+1. Download the `Sales_Forecast.ipynb` file.
+2. Open it in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
+3. Ensure the following Python libraries are installed:
+   - Pandas
+   - NumPy
+   - Matplotlib
+   - Seaborn
+   - Scikit-learn
