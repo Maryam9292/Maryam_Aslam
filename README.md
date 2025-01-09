@@ -34,3 +34,5 @@ This approach uses a **neural network model** built with TensorFlow/Keras to pro
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+## Link 
+[Open the notebook in Google Colab] https://colab.research.google.com/drive/1ZkYNjSx0s2X8S1aeVla1DMBK9tHH3hII?usp=sharing
