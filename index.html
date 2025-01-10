@@ -7,27 +7,27 @@
     <title>Data Analytics and Data Science</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <style>
-              /* Container to hold the sections */
+            
 .container {
     display: flex;
     justify-content: space-between; /* Space out the sections evenly */
     flex-wrap: wrap; /* Allow sections to wrap if screen size is too small */
     gap: 20px; /* Space between sections */
-}
+    }
 
 /* Style for individual sections */
 .container section {
     flex: 1; /* Each section takes equal space */
     min-width: 200px; /* Minimum width for each section */
     padding: 20px;
-}
+    }
 
 /* Optional: Make sections take up more space when screen size is bigger */
 @media (min-width: 768px) {
     .container section {
         flex: 1;
-    }
-}
+      }
+   }
 
         body {
             font-family: 'Poppins', sans-serif;
@@ -131,27 +131,28 @@
 
 <div class="main-content">
     <!-- About Section -->
-    <div id="about" class="section">
+    <div class="container">
+        <section id="about-me">
         <h2>About Me</h2>
         <p>Hello! I'm Maryam, a passionate Data Analyst and Data Scientist. I specialize in turning raw data into meaningful insights using tools like Python, R, SQL and Power BI. My goal is to help businesses make data-driven decisions that improve efficiency and profitability.</p>
-    </div>
+        </section>
 
     <!-- Projects Section -->
-    <div id="projects" class="section">
+       <section id="projects">
         <h2>Projects</h2>
         <ul>
             <li><a href="https://github.com/maryam9292/Data-Analytics-and-Data-Science/blob/main/Sales_Forecast.ipynb" target="_blank">Data Analysis Project - Sales_Forecast.ipynb</a></li>
             <li><strong>Project 2: Customer Segmentation with K-Means Clustering</strong> - Clustered customers based on purchasing behavior to create targeted marketing strategies.</li>
             <li><strong>Project 3: Data Dashboard with Power BI</strong> - Built a dynamic dashboard to visualize key business metrics and track KPIs.</li>
         </ul>
-    </div>
+       </section>
 
     <!-- Call to Action (CTA) Section -->
-    <div class="section">
+    <section id="contact">
         <h2>Interested in Collaborating?</h2>
         <p>Contact me for freelance data analysis, machine learning projects, or consultations!</p>
         <a href="mailto:maryamaslam9292@gmail.com" class="cta-button" style="pointer-events: auto; cursor: pointer;">Get in Touch</a>
-
+     </section>
     </div>
 </div>
 
