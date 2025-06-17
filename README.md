@@ -41,32 +41,3 @@ This approach uses a **neural network model** built with TensorFlow/Keras to pro
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
-
-# 👋 Hi, I’m [Your Name]
-
-## About Me
-I’m a data analyst passionate about using data to solve real-world problems. Skilled in Python, SQL, and Tableau. Currently focusing on time-series forecasting and automation.
-
-## 🔧 Tools & Skills
-- **Languages:** Python, SQL  
-- **Libraries & Tools:** pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
-- **BI & Databases:** Tableau, Power BI, PostgreSQL  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-## 📂 Featured Projects
-- **[COVID Forecast](https://github.com/your-username/covid-forecast)**  
-  ![CI](https://github.com/your-username/covid-forecast/actions/workflows/ci.yml/badge.svg)  
-  Forecasts daily cases using ARIMA and Prophet, includes an interactive dashboard.
-
-- **[Sales Dashboard](https://github.com/your-username/sales-dashboard)**  
-  A Tableau-powered interactive dashboard analyzing retail sales with drill-down filters.
-
-## 📚 Currently Learning
-- Automating data workflows with **GitHub Actions**
-- Interactive dashboards using **Plotly Dash**
-
-## 📫 Get in Touch
-[![Email](https://img.shields.io/badge/Email-youremail%40example.com-blue?logo=gmail)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-
