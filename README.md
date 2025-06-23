@@ -40,7 +40,7 @@ I’m a **passionate and driven Data Analyst** with a curiosity for turning raw 
 ## 📫 Let’s Connect
 
 - 📧 **Email**: maryamaslam9292@gmail.com  
-- 🔗 **LinkedIn**: [www.linkedin.com/in/maryamaslam9292](www.linkedin.com/in/maryamaslam9292)  
+- 🔗 [🔗 LinkedIn](https://www.linkedin.com/in/maryamaslam9292)  
 
 ---
 
