@@ -39,9 +39,8 @@ I’m a **passionate and driven Data Analyst** with a curiosity for turning raw 
 
 ## 📫 Let’s Connect
 
-- 📧 **Email**: your.email@example.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 **Email**: maryamaslam9292@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/in/maryamaslam9292)  
 
 ---
 
