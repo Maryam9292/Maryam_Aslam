@@ -1,8 +1,3 @@
-```markdown
-<!-- Optional Profile Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Data Analyst Banner" width="100%" />
-</p>
 
 # 👋 Hello, I’m Maryam
 
