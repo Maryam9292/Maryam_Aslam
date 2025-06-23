@@ -4,7 +4,7 @@
   <img src="assets/banner.png" alt="Data Analyst Banner" width="100%" />
 </p>
 
-# 👋 Hello, I’m [Your Name]
+# 👋 Hello, I’m Maryam
 
 I’m a **passionate and driven Data Analyst** with a curiosity for turning raw data into clear, actionable insights. My mission is to help businesses make evidence-based decisions by combining robust analysis with compelling visual storytelling.
 
