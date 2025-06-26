@@ -22,7 +22,7 @@ My mission is to:
 
 ### 1. Predictive Insurance Analytics  
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis) 
-[![Power BI](https://img.shields.io/badge/DASHBOARD-FFC000?logo=powerbi)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis/Health Insurance Claims Cost Analysis.pbix)  
+[![Power BI](https://img.shields.io/badge/DASHBOARD-FFC000?logo=powerbi)](https://github.com/Healthcare Insurance Claims Data Analysis.pbix)  
 
 **Machine learning-powered cost forecasting** that identifies high-risk claimants with 87% accuracy.  
 ✅ Key achievements:  
