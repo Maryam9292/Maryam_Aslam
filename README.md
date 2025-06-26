@@ -68,9 +68,13 @@ I'm actively exploring opportunities to:
 - 🎤 Share knowledge at tech conferences  
 
 Let's transform data into your competitive advantage:  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:maryamaslam9292@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/maryamaslam9292)
-
+<div style="display: flex; gap: 15px; margin-top: 20px; margin-bottom: 20px;">
+  <a href="mailto:maryamaslam9292@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email_Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" alt="Email" style="height: 40px;">
+  </a>
+  <a href="https://linkedin.com/in/maryamaslam9292" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" alt="LinkedIn" style="height: 40px;">
+  </a>
 > "Data is the new soil. I cultivate it to grow business value." - My Analytics Philosophy  
 
 
