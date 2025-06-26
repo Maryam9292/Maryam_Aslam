@@ -21,8 +21,8 @@ My mission is to:
 ## 💼 Featured Projects  
 
 ### 1. Predictive Insurance Analytics  
-[![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/your-username/insurance-claims-cost-analysis) 
-[![Power BI](https://img.shields.io/badge/DASHBOARD-FFC000?logo=powerbi)](https://github.com/your-username/insurance-claims-cost-analysis/powerbi)  
+[![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis) 
+[![Power BI](https://img.shields.io/badge/DASHBOARD-FFC000?logo=powerbi)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis/Health Insurance Claims Cost Analysis.pbix)  
 
 **Machine learning-powered cost forecasting** that identifies high-risk claimants with 87% accuracy.  
 ✅ Key achievements:  
@@ -53,7 +53,8 @@ My mission is to:
 graph LR
 A[Raw Data] --> B[Data Engineering]
 B --> C[Exploratory Analysis]
-C --> D[Predictive Modeling]
-D --> E[Interactive Visualization]
-E --> F[Strategic Recommendations]
-F --> G[Measurable Business Impact]
+C --> D[Insights Extraction]
+D --> E[Predictive Modeling]
+E --> F[Interactive Visualization]
+F --> G[Strategic Recommendations]
+H --> I[Measurable Business Impact]
