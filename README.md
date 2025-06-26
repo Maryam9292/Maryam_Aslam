@@ -1,11 +1,10 @@
 # 🌟 Welcome to My Data Universe  
 **Where Numbers Tell Stories & Algorithms Drive Decisions**  
 
-![Data Science](https://img.shields.io/badge/-Data%20Science-2CA5E0?logo=python&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/-Data%20Science-2CA5E0?logo=python&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=powerbi)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-8A2BE2)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?logo=linkedin)](https://linkedin.com/in/maryamaslam9292)
 
 I'm a **Data Alchemist** who transforms complex datasets into golden business insights. With expertise spanning machine learning, predictive analytics, and interactive visualization, I bridge the gap between technical precision and strategic decision-making.
 
