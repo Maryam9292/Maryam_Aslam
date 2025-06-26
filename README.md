@@ -70,10 +70,10 @@ I'm actively exploring opportunities to:
 Let's transform data into your competitive advantage:  
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
   <a href="mailto:maryamaslam9292@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" style="height: 32px;">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" style="height: 32px;">
   </a>
   <a href="https://linkedin.com/in/maryamaslam9292" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Connect on LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="height: 32px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="height: 32px;">
   </a>
  </div>
  
