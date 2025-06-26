@@ -54,13 +54,17 @@ My mission is to:
 | • ML Ops               | • Matplotlib/Seaborn| • Streamlit      |
 | • Data Wrangling       | • Plotly            | • Flask API      |
 
-## 📈 Value Creation Framework  
-```mermaid
-graph LR
-A[Raw Data] --> B[Data Engineering]
-B --> C[Exploratory Analysis]
-C --> D[Predictive Modeling]
-D --> E[Interactive Visualization]
-E --> F[Strategic Recommendations]
-F --> G[Measurable Business Impact]
----
+
+## 🌐 Connect & Collaborate  
+I'm actively exploring opportunities to:  
+- 🔍 Solve complex business problems with data-driven solutions  
+- 🤝 Partner on innovative analytics projects  
+- 🎤 Share knowledge at tech conferences  
+
+Let's transform data into your competitive advantage:  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:maryamaslam9292@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/maryamaslam9292)
+
+> "Data is the new soil. I cultivate it to grow business value." - My Analytics Philosophy  
+
+
