@@ -3,8 +3,9 @@
 
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2CA5E0?logo=chartdotjs&logoColor=white)
 ![Predictive Modelling](https://img.shields.io/badge/-Predictive%20Modelling-8A2BE2?logo=tensorflow&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=powerbi)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-8A2BE2)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=tableau&logoColor=white)
+![Dashboards](https://img.shields.io/badge/-Dashboards-FF9800?logo=powerbi&logoColor=white)
+
 
 I'm a **Data Strategist** who transforms raw numbers into actionable business intelligence. With expertise in data analytics, predictive analytics, machine learning and interactive visualization, I create data solutions that drive measurable impact across industries.
 
