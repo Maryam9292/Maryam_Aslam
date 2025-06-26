@@ -64,9 +64,3 @@ D --> E[Interactive Visualization]
 E --> F[Strategic Recommendations]
 F --> G[Measurable Business Impact]
 ---
-
-Let's transform data into your competitive advantage:  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:maryamaslam9292@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/maryamaslam9292)
-
-> "Data is the new soil. I cultivate it to grow business value." - My Analytics Philosophy  
