@@ -2,8 +2,8 @@
 **Where Numbers Tell Stories & Algorithms Drive Decisions**  
 
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2CA5E0?logo=python&logoColor=white)
-![Predictive Modelling](https://img.shields.io/badge/-Machine%20Learning-8A2BE2)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=powerbi)
+![Predictive Modelling](https://img.shields.io/badge/-Predictive%20Modelling-8A2BE2?logo=prediction&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=powerbi&logoColor=yellow)
 ![Reporting](https://img.shields.io/badge/-Reporting-8A2BE2)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?logo=linkedin)](https://linkedin.com/in/maryamaslam9292)
 
