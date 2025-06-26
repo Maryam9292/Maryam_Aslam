@@ -1,7 +1,8 @@
-# 🌟 Welcome to My Data Universe  
+# 👋 Welcome to My Data Universe  
 **Where Numbers Tell Stories & Algorithms Drive Decisions**  
 
-![Data Science](https://img.shields.io/badge/-Data%20Science-2CA5E0?logo=python&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2CA5E0?logo=chartdotjs&logoColor=white)
+![Predictive Modelling](https://img.shields.io/badge/-Predictive%20Modelling-8A2BE2?logo=tensorflow&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=powerbi)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-8A2BE2)
 
