@@ -48,13 +48,17 @@ My mission is to:
 - Identified top-rated products driving 42% of revenue  
 - Automated financial period reporting (FY starting April)  
 
-## 🛠️ Technical Arsenal  
-| Analytics              | Visualization       | Deployment       |
-|------------------------|---------------------|------------------|
-| • Predictive Modeling  | • Power BI          | • Azure ML       |
-| • Statistical Analysis | • Tableau           | • Docker         |
-| • ML Ops               | • Matplotlib/Seaborn| • Streamlit      |
-| • Data Wrangling       | • Plotly            | • Flask API      |
+## 🛠️ Technical Arsenal
+
+| Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
+|----------------------------|--------------------------|---------------------------|--------------------------|
+| • Python (Pandas, NumPy)   | • Power BI               | • SQL (MySql,T-SQL, PostgreSQL) | • Scikit-learn           |
+| • R                        | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
+| • Advanced Excel           | • Matplotlib/Seaborn     | • Azure Data Services     | • Predictive Modeling    |
+| • Statistical Analysis     | • Plotly                 | • Databricks              | • Time Series Forecasting|
+| • Data Modeling            | • Dashboard Development  | • ETL Pipelines           | • NLP Fundamentals       |
+| • Data Transformation      | • Interactive Reporting  | • Data Warehousing        | • Computer Vision Basics |
+
 
 
 ## 🌐 Connect & Collaborate  
