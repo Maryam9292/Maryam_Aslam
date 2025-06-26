@@ -52,7 +52,7 @@ My mission is to:
 
 | Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
 |----------------------------|--------------------------|---------------------------|--------------------------|
-| • Python (Pandas, NumPy)   | • Power BI               | • SQL (MySql,T-SQL, PostgreSQL) | • Scikit-learn           |
+| • Python (Pandas, NumPy)   | • Power BI               | • SQL (MySql, T-SQL, PostgreSQL) | • Scikit-learn           |
 | • R                        | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
 | • Advanced Excel           | • Matplotlib/Seaborn     | • Azure Data Services     | • Predictive Modeling    |
 | • Statistical Analysis     | • Plotly                 | • Databricks              | • Time Series Forecasting|
