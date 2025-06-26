@@ -18,32 +18,32 @@ My mission is to:
 - 📊 Craft immersive dashboards that tell compelling data stories
 - ⚙️ Engineer robust pipelines that convert chaos into clarity
 - 💡 Solve high-stakes business challenges through analytical innovation
-
+---
 ## 💼 Featured Projects  
-
-### 3. UK Broadband Performance Analysis  
+---
+### 1. UK Broadband Performance Analysis  
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/UK-Broadband-Performance-Analysis)   
 
 **National broadband infrastructure assessment** identifying connectivity gaps affecting 2.3M households.  
-✅ Key achievements:  
+ Key achievements:  
 - Mapped regional performance disparities across 12 UK territories  
 - Identified 45% speed deficiencies in rural communities  
 - Recommended infrastructure upgrades projected to benefit 1.8M users  
 
-### 1. Insurance Analytics with Predictive Reasoning
+### 2. Insurance Analytics with Predictive Reasoning
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis) 
 
 **Machine learning-powered cost forecasting** that identifies high-risk claimants with 87% accuracy.  
-✅ Key achievements:  
+ Key achievements:  
 - Reduced cost prediction error by 32% using Gradient Boosting  
 - Identified 3 hidden risk factors driving 68% of high-cost claims  
 - Developed strategic intervention framework saving $2.4M annually  
 
-### 2. Amazon Sales Intelligence Hub  
+### 3. Amazon Sales Intelligence Hub  
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
 
 **Real-time sales performance dashboard** revealing $18M revenue optimization opportunities.  
-✅ Key achievements:  
+ Key achievements:  
 - Uncovered 23% higher weekend sales in Home & Kitchen category  
 - Identified top-rated products driving 42% of revenue  
 - Automated financial period reporting (FY starting April)  
