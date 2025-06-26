@@ -75,6 +75,8 @@ Let's transform data into your competitive advantage:
   <a href="https://linkedin.com/in/maryamaslam9292" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" alt="LinkedIn" style="height: 40px;">
   </a>
+ </div>
+ ---
 > "Data is the new soil. I cultivate it to grow business value." - My Analytics Philosophy  
 
 
