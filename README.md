@@ -1,28 +1,35 @@
 # 🌟 Welcome to My Data Universe  
 **Where Numbers Tell Stories & Algorithms Drive Decisions**  
 
-![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2CA5E0?logo=python&logoColor=white)
-![Predictive Modelling](https://img.shields.io/badge/-Predictive%20Modelling-8A2BE2?logo=prediction&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=powerbi&logoColor=yellow)
-![Reporting](https://img.shields.io/badge/-Reporting-8A2BE2)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?logo=linkedin)](https://linkedin.com/in/maryamaslam9292)
+![Data Science](https://img.shields.io/badge/-Data%20Science-2CA5E0?logo=python&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D00?logo=powerbi)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-8A2BE2)
 
-I'm a **Data Alchemist** who transforms complex datasets into golden business insights. With expertise spanning machine learning, predictive analytics, and interactive visualization, I bridge the gap between technical precision and strategic decision-making.
+I'm a **Data Strategist** who transforms raw numbers into actionable business intelligence. With expertise in data analytics, predictive analytics, machine learning and interactive visualization, I create data solutions that drive measurable impact across industries.
 
 ## 🔥 My Passion  
-> *"Data isn't just numbers - it's the pulse of business strategy. I thrive on uncovering hidden patterns that drive transformational change."*  
+> *"I see data as the modern-day alchemy - turning abstract numbers into golden insights that transform business trajectories."*  
 
 My mission is to:
-- 🚀 Build intelligent systems that predict business outcomes  
-- 📊 Create stunning visual narratives that democratize data insights  
-- ⚙️ Engineer robust data pipelines that turn chaos into clarity  
-- 💡 Solve complex business problems with analytical precision  
+- 🔍 Analyze complex and large datasets to help businesses make informed decisions
+- 🚀 Build predictive systems that anticipate market shifts
+- 📊 Craft immersive dashboards that tell compelling data stories
+- ⚙️ Engineer robust pipelines that convert chaos into clarity
+- 💡 Solve high-stakes business challenges through analytical innovation
 
 ## 💼 Featured Projects  
 
-### 1. Predictive Insurance Analytics  
+### 3. UK Broadband Performance Analysis  
+[![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/UK-Broadband-Performance-Analysis)   
+
+**National broadband infrastructure assessment** identifying connectivity gaps affecting 2.3M households.  
+✅ Key achievements:  
+- Mapped regional performance disparities across 12 UK territories  
+- Identified 45% speed deficiencies in rural communities  
+- Recommended infrastructure upgrades projected to benefit 1.8M users  
+
+### 1. Insurance Analytics with Predictive Reasoning
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis) 
-[![Power BI](https://img.shields.io/badge/DASHBOARD-FFC000?logo=powerbi)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis/images/cost_analysis.png)  
 
 **Machine learning-powered cost forecasting** that identifies high-risk claimants with 87% accuracy.  
 ✅ Key achievements:  
@@ -31,8 +38,7 @@ My mission is to:
 - Developed strategic intervention framework saving $2.4M annually  
 
 ### 2. Amazon Sales Intelligence Hub  
-[![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/your-username/amazon-sales-dashboard) 
-[![Dashboard](https://img.shields.io/badge/INTERACTIVE-8A2BE2)](https://github.com/your-username/amazon-sales-dashboard)  
+[![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
 
 **Real-time sales performance dashboard** revealing $18M revenue optimization opportunities.  
 ✅ Key achievements:  
@@ -53,8 +59,14 @@ My mission is to:
 graph LR
 A[Raw Data] --> B[Data Engineering]
 B --> C[Exploratory Analysis]
-C --> D[Insights Extraction]
-D --> E[Predictive Modeling]
-E --> F[Interactive Visualization]
-F --> G[Strategic Recommendations]
-H --> I[Measurable Business Impact]
+C --> D[Predictive Modeling]
+D --> E[Interactive Visualization]
+E --> F[Strategic Recommendations]
+F --> G[Measurable Business Impact]
+---
+
+Let's transform data into your competitive advantage:  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:maryamaslam9292@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/maryamaslam9292)
+
+> "Data is the new soil. I cultivate it to grow business value." - My Analytics Philosophy  
