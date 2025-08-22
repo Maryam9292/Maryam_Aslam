@@ -30,7 +30,7 @@ My mission is to:
 - Identified 45% speed deficiencies in rural communities  
 - Recommended infrastructure upgrades projected to benefit 1.8M users  
 
-### 2. Insurance Analytics with Predictive Reasoning
+### 2. Insurance Analytics with Predictive Reasoning - (https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis)
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis) 
 
 **Machine learning-powered cost forecasting** that identifies high-risk claimants with 87% accuracy.  
@@ -39,7 +39,7 @@ My mission is to:
 - Identified 3 hidden risk factors driving 68% of high-cost claims  
 - Developed strategic intervention framework saving $2.4M annually  
 
-### 3. Amazon Sales Intelligence Hub  
+### 3. Amazon Sales Intelligence Hub - (https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
 
 **Real-time sales performance dashboard** revealing $18M revenue optimization opportunities.  
