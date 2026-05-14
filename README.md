@@ -9,17 +9,17 @@
 
 I'm a **Data Strategist** who transforms raw numbers into actionable business intelligence. With expertise in data analytics, predictive analytics, machine learning and interactive visualization, I create data solutions that drive measurable impact across industries.
 
-## 🔥 My Passion  
+## My Passion  
 > *"I see data as the modern-day alchemy - turning abstract numbers into golden insights that transform business trajectories."*  
 
 My mission is to:
-- 🔍 Analyze complex and large datasets to help businesses make informed decisions
-- 🚀 Build predictive systems that anticipate market shifts
-- 📊 Craft immersive dashboards that tell compelling data stories
-- ⚙️ Engineer robust pipelines that convert chaos into clarity
-- 💡 Solve high-stakes business challenges through analytical innovation
+- Analyze complex and large datasets to help businesses make informed decisions
+- Build predictive systems that anticipate market shifts
+- Craft immersive dashboards that tell compelling data stories
+- Engineer robust pipelines that convert chaos into clarity
+- Solve high-stakes business challenges through analytical innovation
 ---
-## 💼 Featured Projects  
+## Featured Projects  
 ---
 ### 1. UK Broadband Performance Analysis - (https://github.com/Maryam9292/UK-Broadband-Performance-Analysis)    
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/UK-Broadband-Performance-Analysis)   
@@ -53,19 +53,19 @@ My mission is to:
 | Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
 |----------------------------|--------------------------|---------------------------|--------------------------|
 | • Python (Pandas, NumPy)   | • Power BI               | • SQL (MySql, T-SQL, PostgreSQL) | • Scikit-learn           |
-| • R                        | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
-| • Advanced Excel           | • Matplotlib/Seaborn     | • Azure Data Services     | • Predictive Modeling    |
+                             | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
+| • Advanced Excel           | • Matplotlib/Seaborn                                 | • Predictive Modeling    |
 | • Statistical Analysis     | • Plotly                 | • Databricks              | • Time Series Forecasting|
 | • Data Modeling            | • Dashboard Development  | • ETL Pipelines           | • NLP Fundamentals       |
-| • Data Transformation      | • Interactive Reporting  | • Data Warehousing        | • Computer Vision Basics |
+| • Data Transformation      | • Interactive Reporting  |
 
 
 
-## 🌐 Connect & Collaborate  
+## Connect & Collaborate  
 I'm actively exploring opportunities to:  
-- 🔍 Solve complex business problems with data-driven solutions  
-- 🤝 Partner on innovative analytics projects  
-- 🎤 Share knowledge at tech conferences  
+- Solve complex business problems with data-driven solutions  
+- Partner on innovative analytics projects  
+- Share knowledge at tech conferences  
 
 Let's transform data into your competitive advantage:  
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
@@ -76,7 +76,6 @@ Let's transform data into your competitive advantage:
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="height: 32px;">
   </a>
  </div>
- 
-> "Data is the new soil. I cultivate it to grow business value." - My Analytics Philosophy  
+>  
 
 
