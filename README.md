@@ -1,5 +1,5 @@
-# 👋 Welcome to My Data Universe  
-**Where Numbers Tell Stories & Algorithms Drive Decisions**  
+# Welcome to My Data Universe  
+**I can tell stories using numbers**  
 
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2CA5E0?logo=chartdotjs&logoColor=white)
 ![Predictive Modelling](https://img.shields.io/badge/-Predictive%20Modelling-8A2BE2?logo=tensorflow&logoColor=white)
@@ -10,7 +10,7 @@
 I'm a **Data Strategist** who transforms raw numbers into actionable business intelligence. With expertise in data analytics, predictive analytics, machine learning and interactive visualization, I create data solutions that drive measurable impact across industries.
 
 ## My Passion  
-> *"I see data as the modern-day alchemy - turning abstract numbers into golden insights that transform business trajectories."*  
+> *"Turning abstract numbers into useful insights that transform business trajectories."*  
 
 My mission is to:
 - Analyze complex and large datasets to help businesses make informed decisions
@@ -52,9 +52,9 @@ My mission is to:
 
 | Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
 |----------------------------|--------------------------|---------------------------|--------------------------|
-| • Python (Pandas, NumPy)   | • Power BI               | • SQL (MySql, T-SQL, PostgreSQL) | • Scikit-learn           |
-                             | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
-| • Advanced Excel           | • Matplotlib/Seaborn                                 | • Predictive Modeling    |
+| • Python (Pandas, NumPy)   | • Power BI               | • SQL                     | • Scikit-learn    |
+|                            | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
+| • Advanced Excel           | • Matplotlib/Seaborn     |                           | • Predictive Modeling    |
 | • Statistical Analysis     | • Plotly                 | • Databricks              | • Time Series Forecasting|
 | • Data Modeling            | • Dashboard Development  | • ETL Pipelines           | • NLP Fundamentals       |
 | • Data Transformation      | • Interactive Reporting  |
