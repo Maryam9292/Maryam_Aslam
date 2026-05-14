@@ -53,11 +53,11 @@ My mission is to:
 | Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
 |----------------------------|--------------------------|---------------------------|--------------------------|
 | • Python (Pandas, NumPy)   | • Power BI               | • SQL                     | • Scikit-learn    |
-|                            | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
-| • Advanced Excel           | • Matplotlib/Seaborn     |                           | • Predictive Modeling    |
+| • Advanced Excel           | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
+| • Data Transformation      | • Matplotlib/Seaborn     | • ETL Pipelines           | • Predictive Modeling    |
 | • Statistical Analysis     | • Plotly                 | • Databricks              | • Time Series Forecasting|
-| • Data Modeling            | • Dashboard Development  | • ETL Pipelines           | • NLP Fundamentals       |
-| • Data Transformation      | • Interactive Reporting  |
+| • Data Modeling            | • Dashboard Development  |                           | • NLP Fundamentals       |
+|                            | • Interactive Reporting  |
 
 
 
@@ -76,6 +76,5 @@ Let's transform data into your competitive advantage:
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="height: 32px;">
   </a>
  </div>
->  
 
 
