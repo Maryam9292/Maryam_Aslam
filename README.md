@@ -1,4 +1,4 @@
-# Welcome to My Data Universe  
+# Welcome to My Profile  
 **I can tell stories using numbers**  
 
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2CA5E0?logo=chartdotjs&logoColor=white)
