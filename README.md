@@ -52,7 +52,7 @@ Key achievements:
 
 | Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
 |----------------------------|--------------------------|---------------------------|--------------------------|
-| • Python (Pandas, NumPy, Scikit-learn)   | • Power BI               | • SQL                     | • Scikit-learn    |
+| • Python (Pandas, NumPy)   | • Power BI               | • SQL                     | • Scikit-learn    |
 | • Advanced Excel           | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
 | • Data Transformation      | • Matplotlib/Seaborn     | • ETL Pipelines           | • Predictive Modeling    |
 | • Statistical Analysis(hypothesis testing, non-parametric methods)     | • Plotly                 | • Databricks              | • Time Series Forecasting|
