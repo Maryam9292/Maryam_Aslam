@@ -44,18 +44,18 @@ Key achievements:
 
 **Real-time sales performance dashboard** revealing $18M revenue optimization opportunities.  
  Key achievements:  
-- Uncovered 23% higher weekend sales in Home & Kitchen category  
-- Identified top-rated products driving 42% of revenue  
-- Automated financial period reporting (FY starting April)  
+- - Cleaned and restructured Amazon product category data into navigable hierarchies using Power Query
+- Built financial period logic (custom FY starting April, quarter and month breakdowns) and weekday/weekend sales comparisons
+- Flagged top-rated products (rating ≥4.5, 100+ reviews) and calculated their share of total sales in an interactive Power BI dashboard  
 
 ## 🛠️ Technical Arsenal
 
 | Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
 |----------------------------|--------------------------|---------------------------|--------------------------|
-| • Python (Pandas, NumPy)   | • Power BI               | • SQL                     | • Scikit-learn    |
+| • Python (Pandas, NumPy, Scikit-learn)   | • Power BI               | • SQL                     | • Scikit-learn    |
 | • Advanced Excel           | • Tableau                | • DAX & Power Query/M     | • TensorFlow/Keras       |
 | • Data Transformation      | • Matplotlib/Seaborn     | • ETL Pipelines           | • Predictive Modeling    |
-| • Statistical Analysis     | • Plotly                 | • Databricks              | • Time Series Forecasting|
+| • Statistical Analysis(hypothesis testing, non-parametric methods)     | • Plotly                 | • Databricks              | • Time Series Forecasting|
 | • Data Modeling            | • Dashboard Development  |                           | • NLP Fundamentals       |
 |                            | • Interactive Reporting  |
 
