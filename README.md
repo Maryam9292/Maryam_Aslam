@@ -12,7 +12,7 @@ I'm a **Data Strategist** who transforms raw numbers into actionable business in
 ## My Passion  
 > *"Turning abstract numbers into useful insights that transform business trajectories."*  
 
-My mission is to:
+I love to:
 - Analyze complex and large datasets to help businesses make informed decisions
 - Build predictive systems that anticipate market shifts
 - Craft immersive dashboards that tell compelling data stories
@@ -26,18 +26,18 @@ My mission is to:
 
 **National broadband infrastructure assessment** identifying connectivity gaps affecting 2.3M households.  
  Key achievements:  
-- Mapped regional performance disparities across 12 UK territories  
-- Identified 45% speed deficiencies in rural communities  
-- Recommended infrastructure upgrades projected to benefit 1.8M users  
+- Compared broadband latency and throughput across ISPs, technologies, and regions using non parametric statistical tests
+- Found rural areas face 24% higher latency than urban areas (p = 0.038), with the gap widest on satellite (38ms vs 22ms)
+- Flagged 45 regions with below-average performance as candidates for infrastructure prioritization  
 
 ### 2. Insurance Analytics with Predictive Reasoning - (https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis)
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Health-Insurance-Claims-Cost-Analysis) 
 
-**Machine learning-powered cost forecasting** that identifies high-risk claimants with 87% accuracy.  
- Key achievements:  
-- Reduced cost prediction error by 32% using Gradient Boosting  
-- Identified 3 hidden risk factors driving 68% of high-cost claims  
-- Developed strategic intervention framework saving $2.4M annually  
+**Machine learning-driven cost forecasting** comparing five regression models to predict medical insurance claim costs.
+Key achievements:
+- Best model (Gradient Boosting) achieved R² of 0.88 on held-out test data, after log-transforming charges to correct for skew
+- Engineered domain-informed risk features (age bands, BMI category, simulated pre-existing condition) to test their predictive contribution
+- Feature importance analysis confirmed smoking status and BMI as the dominant cost drivers, consistent with a 3.8x cost gap between smokers and non-smokers  
 
 ### 3. Amazon Sales Intelligence Hub - (https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
