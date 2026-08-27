@@ -22,7 +22,7 @@ I love to:
 ### 1. UK Broadband Performance Analysis - (https://github.com/Maryam9292/UK-Broadband-Performance-Analysis)    
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/UK-Broadband-Performance-Analysis)   
 
-**National broadband infrastructure assessment** identifying connectivity gaps affecting 2.3M households.  
+**National broadband infrastructure assessment** identifying connectivity gaps.  
  Key achievements:  
 - Compared broadband latency and throughput across ISPs, technologies, and regions using non parametric statistical tests
 - Found rural areas face 24% higher latency than urban areas (p = 0.038), with the gap widest on satellite (38ms vs 22ms)
