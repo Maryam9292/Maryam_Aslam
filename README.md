@@ -41,7 +41,7 @@ Key achievements:
 ### 3. Amazon Sales Intelligence Hub - (https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
 [![GitHub Repo](https://img.shields.io/badge/REPO-100000?logo=github&logoColor=white)](https://github.com/Maryam9292/Amazon-Sales-Performance-Dashboard) 
 
-**Real-time sales performance dashboard** revealing revenue optimization opportunities.  
+**Real-time sales performance dashboard** Sales performance dashboard for Amazon product data, built in Power Query and Power BI.  
  Key achievements:  
 - Cleaned and restructured Amazon product category data into navigable hierarchies using Power Query
 - Built financial period logic (custom FY starting April, quarter and month breakdowns) and weekday/weekend sales comparisons
@@ -49,7 +49,7 @@ Key achievements:
 
 ## 🛠️ Technical Arsenal
 
-| Programming & Analytics     | BI & Visualization       | Data Engineering & Cloud  | Machine Learning & AI    |
+| Programming & Analytics     | BI & Visualization       | Data Engineering         | Machine Learning & AI    |
 |----------------------------|--------------------------|---------------------------|--------------------------|
 | • Python (Pandas, NumPy)   | • Power BI               | • SQL                     | • Scikit-learn    |
 | • Advanced Excel           | • Tableau                | • DAX & Power Query/M     | TensorFlow/Keras       |
