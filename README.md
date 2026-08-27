@@ -8,14 +8,15 @@
 ![Dashboards](https://img.shields.io/badge/-Dashboards-FF9800?logo=powerbi&logoColor=white)
 
 
-I'm a **Data Strategist** who transforms raw numbers into actionable business intelligence. With expertise in data analytics, statistics, predictive analytics, machine learning and interactive visualization, I create data solutions that drive measurable impact across industries.
+I am a data analyst with focus on applied statistics and optimization, particularly feature selection and predictive modelling in healthcare and finance. My dissertation compared genetic algorithm, PCA, and sequential feature selection methods on clinical classification data, and I have since applied similar optimization techniques to other prediction problems using non-parametric hypothesis testing and cross-validated regression modelling. I am currently building toward more research-oriented work at the intersection of statistics, optimization, and machine learning.
 
-I love to:
+I like to:
+- Test whether a pattern is real before trusting it, using the right statistical tool for the data
+- Compare methods rather than settle for the first one that works
+- Build models I can fully explain, including their assumptions and limits
+- Keep developing toward deeper computational and mathematical foundations.
 - Analyze complex and large datasets to help businesses make informed decisions
-- Build predictive systems that anticipate market shifts
-- Craft immersive dashboards that tell compelling data stories
-- Engineer robust pipelines that convert chaos into clarity
-- Solve high-stakes business challenges through analytical innovation
+
 ---
 ## Featured Projects  
 ---
